@@ -1,0 +1,13 @@
+﻿  main.cpp
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(168): warning C4018: '<': signed/unsigned mismatch
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(344): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\code\deferredrender\deferredrender\deferredrender\main.cpp(491): warning C4018: '<': signed/unsigned mismatch
+  DeferredRender.vcxproj -> D:\code\DeferredRender\DeferredRender\Debug\DeferredRender.exe
+  DeferredRender.vcxproj -> D:\code\DeferredRender\DeferredRender\Debug\DeferredRender.pdb (Full PDB)
